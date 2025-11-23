@@ -121,11 +121,10 @@ header nav ul li a:hover {
 }
 
 .project-card {
-    border: 1px solid #ddd;
+    border: 1px solid #0905f1da;
     padding: 20px;
     margin-bottom: 20px;
-    background: #fdfdfd;
-    text-align: left;
+    background: #ffffff;;
 }
 
 .project-card h3 {
@@ -220,5 +219,5 @@ td:nth-child(2) {
 }
 
 .back-to-top-btn:hover {
-    background: #003d7a;
+    background: #000000;
 }
